@@ -10,9 +10,9 @@ public class variableClass {
 
 		System.out.println(level);
 		
-		byte a; //1byte 정수형
+		//byte a; //1byte 정수형
 		short b; //2byte 정수형
-		int c; //4byte 정수형
+		//int c; //4byte 정수형
 		long d; //8byte 정수형
 		
 		char e; //2byte 문자형
