@@ -1,0 +1,15 @@
+package inheritance;
+
+public class TestA {
+	int num;
+	void aaa() {
+		System.out.println("output aaa()");
+	}
+	
+//	public static void main(String[] args) {
+//		TestA a1 = new TestA();
+//		a1.aaa();
+//		TestA a2 = new TestA();
+//		a2.aaa();
+//	}
+}
