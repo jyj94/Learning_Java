@@ -1,0 +1,13 @@
+package classandobject;
+
+public class classandobjectClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		printText("This is Test!");
+	}
+	void printText(String text) {
+		System.out.println(text);
+	}
+
+}

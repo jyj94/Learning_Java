@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;variable.varableClass.java&apos; to &apos;variableClass.java&apos;&#x0D;&#x0A;- Original project: &apos;variable&apos;&#x0D;&#x0A;- Original element: &apos;variable.varableClass.java&apos;&#x0D;&#x0A;- Renamed element: &apos;variable.variableClass.java&apos;" description="Rename compilation unit &apos;varableClass.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;variable{varableClass.java" name="variableClass.java" references="false" stamp="1613453545800" version="1.0"/>
+</session>
