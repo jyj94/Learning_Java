@@ -2,17 +2,20 @@ package generics;
 
 public class GenericPrinterTest {
 //    public static void main(String[] args) {
-//        GenericPrinter<Powder> powderPrint = new GenericPrinter<Powder>();
+//        GenericPrinter<Powder> powderGenericPrinter = new GenericPrinter<>();
 //
-//        powderPrint.setMaterial(new Powder());
-//        Powder powder = powderPrint.getMaterial();
-//        System.out.println(powderPrint);
+//        powderGenericPrinter.setMaterial(new Powder());
+//        Powder powder = powderGenericPrinter.getMaterial();
+//        System.out.println(powderGenericPrinter);
+//        System.out.println(powder);
 //
-//        GenericPrinter<Plastic> plasticPrinter = new GenericPrinter<Plastic>();
+//        GenericPrinter<Plastic> plasticGenericPrinter = new GenericPrinter<>();
+//        plasticGenericPrinter.setMaterial(new Plastic());
+//        Plastic plastic = plasticGenericPrinter.getMaterial();
+//        System.out.println(plasticGenericPrinter);
+//        System.out.println(plastic);
 //
-//        plasticPrinter.setMaterial(new Plastic());
-//        Plastic plastic = plasticPrinter.getMaterial();
-//        System.out.println(plasticPrinter);
-//        plasticPrinter.printing();
+//        plasticGenericPrinter.printing();
+
 //    }
 }
