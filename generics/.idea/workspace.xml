@@ -2,9 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dd28da5-d4d8-49b9-8026-3723dc7c3c9b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/generics/generics/GenericPrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/generics/generics/GenericPrinterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/GenericPrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/GenericPrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/chaper12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/LinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/Member2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/arrayList/MemberArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/arrayList/MemberArrayListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/arrayList/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/arrayList/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/arrayList/QueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/arrayList/StackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/hashset/HashSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/hashset/MemberHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/hashset/MemberHashSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/treeset/ComparatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/treeset/MeberTreeSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/treeset/MemberTreeSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/treeset/MyCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/collection/treeset/TreeSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/map/hashmap/MemberHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/map/hashmap/MemberHashMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/map/treemap/MemberTreeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/out/production/chaper12/map/treemap/MemberTreeMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/LinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/Member2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/arrayList/MemberArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/arrayList/MemberArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/arrayList/QueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/arrayList/StackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/hashset/HashSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/hashset/MemberHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/hashset/MemberHashSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/treeset/ComparatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/treeset/MeberTreeSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/treeset/MemberTreeSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/collection/treeset/TreeSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/map/hashmap/MemberHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/map/hashmap/MemberHashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/map/treemap/MemberTreeMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaper12/src/map/treemap/MemberTreeMapTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
