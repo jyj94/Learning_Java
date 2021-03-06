@@ -4,7 +4,7 @@ import java.io.*;
 
 public class FileOutputStreamTest3 {
     public static void main(String[] args) {
-        try(FileOutputStream fileOutputStream = new FileOutputStream("output3.txt")) {
+        try(FileOutputStream fileOutputStream = new FileOutputStream("./inOutFile/output3.txt", true)) {
             byte[] bytes = new byte[26];
             byte data = 65;
             for (int i = 0; i < bytes.length; i++) {
